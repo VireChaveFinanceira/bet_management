@@ -1,0 +1,2 @@
+class HomeBet < ApplicationRecord
+end

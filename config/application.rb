@@ -19,7 +19,7 @@ module BetManagement
       g.assets = false
       g.helper = false
       g.view_specs = false
-      g.test = false
+      g.test_framework :rspec, fixture: false
     end
   end
 end
