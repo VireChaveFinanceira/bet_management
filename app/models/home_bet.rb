@@ -1,3 +1,3 @@
 class HomeBet < ApplicationRecord
-    validates :name, :link, presence: true 
+    validates :name, presence: true
 end
